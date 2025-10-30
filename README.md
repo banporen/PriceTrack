@@ -11,7 +11,7 @@
 ETH（狐狸钱包）<br>
 0x7D17291461b566f52c25b290e719e9E09768E965<br>
 币安收款码
-<img src='qr3.png'/>
+<img src='qr3.png' style='width:120px;height:120px;'/>
 <b>没钱的捧个人场，填个邀请码：</b><br>
 <b>FA8FA</b><br>
 已经设置成返还全部20%佣金<br>
